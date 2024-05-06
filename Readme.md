@@ -1,28 +1,28 @@
-Name
+**Name**
 [Playwright course] Basic code JS with playwright
 
-Description
+**Description**
 Learn to work with various web element(s) locating strategies, perform actions on web elements, group, and sequence tests as well as generate the test reports for your test cases
 Understand the Page Object Model (POM) design pattern which will further help trainees optimize the execution of your automation scripts
 
-Installation
+**Installation**
 Install the necessary tools below:
     "@playwright/test": "^1.43.1",
     "@types/node": "^20.12.7"
 	"dotenv": "^16.4.5",
 
-Tools: Visual Studio Code
+**Tools**: Visual Studio Code
 
-Support
+**Support:**
 Nguyen Anh Tien (tiennguyena1@nashtechglobal.com)
 
-Contributing
+**Contributing**
 khanh.vunguyenvan@nashtechglobal.com
 
-Project status
+**Project status**
 Development is keep going. 
 
-Structure
+**Structure**
 	helper\api:
 		api-constants.js: urls are used for api request urls
 	hooks:
